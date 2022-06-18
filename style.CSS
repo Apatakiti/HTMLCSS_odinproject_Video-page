@@ -1,0 +1,72 @@
+body {
+   background-color: rgb(255, 255, 255); 
+}
+nav {
+    background-color: rgb(255, 255, 255);
+    width: 5%;
+    height:100vmin;
+    float: left;
+    display:inline;
+    position: relative;
+    overflow: hidden;
+}
+nav:hover {
+    font-weight: bolder;
+}
+#mother_div {
+    background-color: rgb(234, 234, 229);
+    height:fit-content;
+    width: fit-content;
+    overflow: hidden;  
+}
+.videos {
+    background-color: rgb(234, 234, 229);
+    height:40vmin;
+    width: 50vmin;
+    margin: 10px;
+    border: 2px solid rgb(234, 234, 229) ;
+    overflow: hidden;
+    display:inline-block;
+}
+a {
+    color: black;
+}
+#main {
+    height:100vmin;
+}
+#heading {
+    text-align: center;
+}
+#logo {
+    float: left;
+    font-weight: bold;
+}
+#icon {
+    float: right;
+    font-weight: bold;
+}
+#topics {
+    background-color: rgb(255, 255, 255);
+}
+#All_fields {
+    color: white !important; 
+    background-color: black !important;
+    font-weight: bolder !important;
+    border-radius: 30% !important;
+}
+button {
+    border-radius: 40%;
+} 
+#channel_img {
+    height: 30px;
+    width: 30px;
+    background-color: brown;
+    border-radius: 40%;
+    float: left;
+}
+#video_name {
+    color: teal;
+    font-weight: bold;
+}
+
+
